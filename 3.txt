@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+I am Amisha
+=======
+I am Amisha
+>>>>>>> f1
